@@ -8,5 +8,5 @@ Gem::Specification.new do |s|
   s.files       = ['lib/net-ssh-open3.rb', 'README.md']
   s.homepage    = 'http://github.com/dotdoom/net-ssh-open3'
   s.license     = 'MIT'
-  s.add_dependency 'net-ssh', '~>2.6'
+  s.add_dependency 'net-ssh'
 end
